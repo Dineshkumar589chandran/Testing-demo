@@ -1,0 +1,15 @@
+App As appinfo:
+    BackEnabled: =false
+    Formulas: =Aet = User().FullName;
+    MinScreenHeight: =320
+    MinScreenWidth: =320
+    OnStart: =
+    SizeBreakpoints: =[600, 900, 1200]
+
+    Host As hostControl.DefaultHostControlVariant:
+        OnCancel: =false
+        OnEdit: =false
+        OnNew: =false
+        OnSave: =false
+        OnView: =false
+

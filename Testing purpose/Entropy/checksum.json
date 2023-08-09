@@ -1,0 +1,36 @@
+{
+  "ClientBuildDetails": {
+    "CommitHash": "ad5b01d06455feee13561b05c10c3974fc796f4c",
+    "IsLocalBuild": false
+  },
+  "ClientPerFileChecksums": {
+    "AppCheckerResult.sarif": "C8_6r0yebfn4q1N9rYXKW6u20eys7i/QpWO1JOJcQOQ9dA=",
+    "Controls\\1.json": "C8_9gYNMs35vMcyJXb5VdEpOCBFjRiUVTSN2KlzYwNifkU=",
+    "Controls\\4.json": "C8_Pb5ufwxLwa8AS8dFxWTW8caPXMkrHgjLrCpx2ry2cN0=",
+    "Controls\\5.json": "C8_xM6v9303ZGqYPo0/1/8ESzGpMZpDfpy+IFCEilusFRc=",
+    "Header.json": "C8_MRWTUdcA8GBImXxgu5ww7Ycp7My7pRI29pifQxFOa2U=",
+    "Properties.json": "C8_TRpMKG289rX9qA5RIuCjuGQbSSmuqWwUO7bC6v0Twbs=",
+    "References\\DataSources.json": "C8_1Mz8z/quQND5c2f8m0mw1Mjdi+ggLSDhPUoMPaSWpDQ=",
+    "References\\Resources.json": "C8_o8YVeUoBOQZMN+H7s7E9s1TDtWtrOeuiBA3wJXAjo2Y=",
+    "References\\Templates.json": "C8_qs1HYmWLPWqi1Uxyt6D7KrQDONDdplofi8E1bg/XDUE=",
+    "References\\Themes.json": "C8_GAeHHhiSgLtgiVcP3Ju6mwusNkZBcEU589EyG8d9EFg=",
+    "Resources\\logo.jpg": "C8_+cqu+SePk7pEP66LfRjOFmP0MASOi4VI995cdxnWMgk=",
+    "Resources\\PublishInfo.json": "C8_GEIVTVM5nwrM+EyfEclT26Ccw9h05BeT9VH7g2F4erI="
+  },
+  "ClientStampedChecksum": "C8_6ngAEKUiE4NikH8QwJk19ZICGD8StR2MNrXPuMhY54Q=",
+  "ServerPerFileChecksums": {
+    "AppCheckerResult.sarif": "C8_6r0yebfn4q1N9rYXKW6u20eys7i/QpWO1JOJcQOQ9dA=",
+    "Controls\\1.json": "C8_9gYNMs35vMcyJXb5VdEpOCBFjRiUVTSN2KlzYwNifkU=",
+    "Controls\\4.json": "C8_Pb5ufwxLwa8AS8dFxWTW8caPXMkrHgjLrCpx2ry2cN0=",
+    "Controls\\5.json": "C8_xM6v9303ZGqYPo0/1/8ESzGpMZpDfpy+IFCEilusFRc=",
+    "Header.json": "C8_MRWTUdcA8GBImXxgu5ww7Ycp7My7pRI29pifQxFOa2U=",
+    "Properties.json": "C8_TRpMKG289rX9qA5RIuCjuGQbSSmuqWwUO7bC6v0Twbs=",
+    "References\\DataSources.json": "C8_1Mz8z/quQND5c2f8m0mw1Mjdi+ggLSDhPUoMPaSWpDQ=",
+    "References\\Resources.json": "C8_o8YVeUoBOQZMN+H7s7E9s1TDtWtrOeuiBA3wJXAjo2Y=",
+    "References\\Templates.json": "C8_qs1HYmWLPWqi1Uxyt6D7KrQDONDdplofi8E1bg/XDUE=",
+    "References\\Themes.json": "C8_GAeHHhiSgLtgiVcP3Ju6mwusNkZBcEU589EyG8d9EFg=",
+    "Resources\\logo.jpg": "C8_+cqu+SePk7pEP66LfRjOFmP0MASOi4VI995cdxnWMgk=",
+    "Resources\\PublishInfo.json": "C8_GEIVTVM5nwrM+EyfEclT26Ccw9h05BeT9VH7g2F4erI="
+  },
+  "ServerStampedChecksum": "C8_6ngAEKUiE4NikH8QwJk19ZICGD8StR2MNrXPuMhY54Q="
+}
